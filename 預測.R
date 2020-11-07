@@ -1,8 +1,8 @@
 
 
 #R version 3.4.0 (2017-04-21) -- "You Stupid Darkness"
-#data.table 1.10.4
-
+#R套件 data.table 1.10.4
+#
 #输入：
 #	quaterfinal_gy_cmp_training_traveltime.txt
 #	gy_contest_traveltime_training_data_second.txt
